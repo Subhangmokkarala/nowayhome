@@ -80,7 +80,7 @@
             <li>Services</li>
             <li>Contact</li>
         </ul>
-            </div><center> <img src="mcu_spider_man_logo_by_momopjonny_da31t9i-pre.png" alt="Shang-Chi" height="250px"width="250px" ></center>
+            </div><center> <img src="https://www.clipartmax.com/png/middle/19-197434_mcu-spider-man-logo-by-momopjonny-on-deviantart-spiderman-homecoming-spider-logo.png" alt="Shang-Chi" height="250px"width="250px" ></center>
    
     <H1 id="SUBHANG">Trailer</H1>
     <a href="#SUBHANG1">click here To Go Trailer</a>
@@ -155,7 +155,7 @@ src="https://youtu.be/1VmD5G82wxI">
               Address: <TEXTarea cols="30" rows="10">PERMANENT ADDRESS</TEXTarea>
               <INPut type="SUBMIT" value="SUBMIT"></INPut>
               <INPut type="RESET" value="RESET"></INPut>
-<body><center> <img src="2002.png" alt="Shang-Chi" height="360px"width="720px" ></center>
+<body><center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_way_home_logo.png/1200px-No_way_home_logo.png" alt="Shang-Chi" height="360px"width="720px" ></center>
 
 
 
