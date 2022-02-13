@@ -135,7 +135,10 @@
         <a href="https://www.youtube.com/channel/UCJlKOpYiA353VIL4gpDb7ZA" target="_blank" >Youtube</a><br>
      
         <p><b>No Way Home Intro</b> </p>
-        <video src="https://www.youtube.com/watch?v=1VmD5G82wxI" controls height="720" width="1080" poster="1024.jpg"></video>
+    <iframe width="1080" height="720"
+src="https://youtu.be/1VmD5G82wxI">
+</iframe>
+        
         <br>
         <p id="1">No Way Home Theme</p>
         <br>
