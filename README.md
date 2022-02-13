@@ -80,7 +80,7 @@
             <li>Services</li>
             <li>Contact</li>
         </ul>
-            </div><center> <img src="https://www.clipartmax.com/png/middle/19-197434_mcu-spider-man-logo-by-momopjonny-on-deviantart-spiderman-homecoming-spider-logo.png" alt="Shang-Chi" height="250px"width="250px" ></center>
+            </div><center> <a href="https://www.clipartmax.com/"> <img src="https://www.clipartmax.com/png/middle/19-197434_mcu-spider-man-logo-by-momopjonny-on-deviantart-spiderman-homecoming-spider-logo.png" alt="Shang-Chi" height="250px"width="250px" ></center>
    
     <H1 id="SUBHANG">Trailer</H1>
     <a href="#SUBHANG1">click here To Go Trailer</a>
@@ -136,8 +136,7 @@
      
         <p><b>No Way Home Intro</b> </p>
     <iframe width="1080" height="720"
-src="https://youtu.be/1VmD5G82wxI">
-</iframe>
+src="https://youtu.be/os2C0TdDphc"></iframe>
         
         <br>
         <p id="1">No Way Home Theme</p>
@@ -155,7 +154,7 @@ src="https://youtu.be/1VmD5G82wxI">
               Address: <TEXTarea cols="30" rows="10">PERMANENT ADDRESS</TEXTarea>
               <INPut type="SUBMIT" value="SUBMIT"></INPut>
               <INPut type="RESET" value="RESET"></INPut>
-<body><center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_way_home_logo.png/1200px-No_way_home_logo.png" alt="Shang-Chi" height="360px"width="720px" ></center>
+<body><center>  <a href="https://commons.wikimedia.org/wiki/Main_Page"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_way_home_logo.png/1200px-No_way_home_logo.png" alt="Shang-Chi" height="360px"width="720px" ></center>
 
 
 
