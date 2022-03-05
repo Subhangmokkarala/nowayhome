@@ -80,7 +80,7 @@
             <li>Services</li>
             <li>Contact</li>
         </ul>
-            </div><center> <img src="https://www.clipartmax.com/png/middle/19-197434_mcu-spider-man-logo-by-momopjonny-on-deviantart-spiderman-homecoming-spider-logo.png" alt="Shang-Chi" height="250px"width="250px" ></center>
+            </div><center> <img src="http://www.clipartmax.com/png/middle/19-197434_mcu-spider-man-logo-by-momopjonny-on-deviantart-spiderman-homecoming-spider-logo.png" alt="Shang-Chi" height="250px"width="250px" ></center>
    
     <H1 id="SUBHANG">Trailer</H1>
     <a href="#SUBHANG1">click here To Go Trailer</a>
@@ -132,11 +132,11 @@
           </tr>
       </tr></b>
       
-        <a href="https://www.youtube.com/channel/UCJlKOpYiA353VIL4gpDb7ZA" target="_blank" >Youtube</a><br>
+        <a href="http://www.youtube.com/channel/UCJlKOpYiA353VIL4gpDb7ZA" target="_blank" >Youtube</a><br>
      
         <p><b>No Way Home Intro</b> </p>
     <iframe width="1080" height="720"
-src="https://youtu.be/os2C0TdDphc"></iframe>
+src="http://youtu.be/os2C0TdDphc"></iframe>
         
         <br>
         <p id="1">No Way Home Theme</p>
@@ -154,7 +154,7 @@ src="https://youtu.be/os2C0TdDphc"></iframe>
               Address: <TEXTarea cols="30" rows="10">PERMANENT ADDRESS</TEXTarea>
               <INPut type="SUBMIT" value="SUBMIT"></INPut>
               <INPut type="RESET" value="RESET"></INPut>
-<body><center><img src="https://api.time.com/wp-content/uploads/2021/09/shang-chi-simu-liu-tony-leung.jpeg" alt="Shang-Chi" height="360px"width="720px" ></center>
+<body><center><img src="http://api.time.com/wp-content/uploads/2021/09/shang-chi-simu-liu-tony-leung.jpeg" alt="Shang-Chi" height="360px"width="720px" ></center>
 
 
 
