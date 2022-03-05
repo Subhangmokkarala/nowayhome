@@ -154,7 +154,7 @@ src="https://youtu.be/os2C0TdDphc"></iframe>
               Address: <TEXTarea cols="30" rows="10">PERMANENT ADDRESS</TEXTarea>
               <INPut type="SUBMIT" value="SUBMIT"></INPut>
               <INPut type="RESET" value="RESET"></INPut>
-<body><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_way_home_logo.png/1200px-No_way_home_logo.png" alt="Shang-Chi" height="360px"width="720px" ></center>
+<body><center><img src="https://api.time.com/wp-content/uploads/2021/09/shang-chi-simu-liu-tony-leung.jpeg" alt="Shang-Chi" height="360px"width="720px" ></center>
 
 
 
